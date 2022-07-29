@@ -3,29 +3,29 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  title: "Chrissy Roberts" 
+  site-url: "https://chrissyhroberts.github.io/hub" 
+  repo-url: https://chrissyhroberts.github.io/hub 
   repo-actions: [edit, issue]
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
+    left: "&copy; CC-By Chrissy Roberts, 2022"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/mugshot.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://orcid.org/0000-0003-1064-5980
+        text: "ORCID"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
+        href: https://github.com/chrissyhroberts
+        text: "Github"
       - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        href: https://twitter.com/chrissyhroberts
+        text: "Twitter"         
 
     style: "docked"
     search: true
