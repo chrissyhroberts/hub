@@ -7,7 +7,7 @@ execute:
   
   
 book:
-  cover-image: cover.png
+  cover-image: images/cover.png
   title: "Chrissy's Book"
   author: "Chrissy Roberts"
   date: last-modified 
