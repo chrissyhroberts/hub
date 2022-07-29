@@ -41,7 +41,6 @@ book:
   repo-url: https://github.com/chrissyhroberts/hub
   repo-actions: [edit,issue]
 
-  page-navigation:rue
 
   chapters: 
     - index.qmd
