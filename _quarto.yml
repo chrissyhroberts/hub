@@ -1,61 +1,39 @@
 project: 
-  type: website
+  type: book
+  output-dir: _book
   
-website: 
-  page-navigation: true
-  title: "Chrissy Roberts" 
-  site-url: "https://chrissyhroberts.github.io/hub" 
-  repo-url: https://chrissyhroberts.github.io/hub 
-  repo-actions: [edit, issue]
+book:
+  title: "Faylab Lab Manual"
+  author: "Gavin Fay & Ashleigh Novak"
+  date: last-modified 
+  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
   
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Chrissy Roberts, 2022"
-    
-  sidebar:
-    logo: "images/mugshot.png"
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://orcid.org/0000-0003-1064-5980
-        text: "ORCID"
-      - icon: github
-        href: https://github.com/chrissyhroberts
-        text: "Github"
-      - icon: twitter
-        href: https://twitter.com/chrissyhroberts
-        text: "Twitter"         
+    left: |
+      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://thefaylab.github.io/lab-manual/
+  repo-url: https://github.com/thefaylab/lab-manual
+  repo-actions: [edit,issue]
 
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - href: index.qmd
-        text: Welcome
-      - explore.qmd
-      - section: ODK/index.qmd
-        contents: 
-          - https://github.com/chrissyhroberts/ODK_Geofencing/blob/main/README.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
+  chapters: 
+    - index.qmd
+    - 01-intro-how-we-work.qmd
+    - 02-lab-culture-philosophy.qmd
+    - 03-code-of-conduct.qmd
+    - 04-onboarding.qmd
+    - 05-expectations.qmd
+    - 06-offboarding.qmd
+    - 07-funding.qmd
+    - 08-communication.qmd
+    - 09-academics.qmd
+    - 10-courses.qmd
+    - 11-computing.qmd
+    - 12-umassd-resources.qmd
+#    - 13-smast-resources.qmd
+#    - 14-other-faylab-resources.qmd  
 
 
-format:
-  html:
-    theme:
-      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: [cosmo, theme-dark.scss]
-    code-copy: true
-    code-overflow: wrap
-    toc: true
-
-
-filters:
-  - include-files.lua
-  - quarto
-
-  
+# not sure what the following line does; those files are present
+bibliography: [references.bib, book.bib]
