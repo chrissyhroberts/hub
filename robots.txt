@@ -1,1 +1,1 @@
-Sitemap: https://github.com/chrissyhroberts/hub/sitemap.xml
+Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
