@@ -7,7 +7,8 @@ editor: visual
 Here some text baby
 
 ```{r}
-library(ggplot2)
+library(tidyverse)
+
 a = 3+5
 a
 
