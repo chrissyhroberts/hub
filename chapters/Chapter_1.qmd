@@ -6,7 +6,7 @@ editor: visual
 
 # Intro {.unnumbered}
 
-Hello, world asdfa
+Hello, world asdfa [@roberts2021]
 
 # Doom {.unnumbered}
 
@@ -30,7 +30,7 @@ asdfs asdf asdf
 
 ## maggots {.unnumbered}
 
-[@roberts2021]
+asdsd
 
 asdf sdf asdf
 
