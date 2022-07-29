@@ -1,6 +1,7 @@
 project: 
   type: book
   output-dir: _book
+  
 
 execute:
   freeze: auto
@@ -12,7 +13,8 @@ book:
   author: "Chrissy Roberts"
   date: last-modified 
   description: "This is a template for a book I may write" 
- 
+  page-navigation: true
+  
   sidebar:
     logo: "images/mugshot.png"
     pinned: true
@@ -39,7 +41,7 @@ book:
   repo-url: https://github.com/chrissyhroberts/hub
   repo-actions: [edit,issue]
 
-page-navigation: true
+  page-navigation:rue
 
   chapters: 
     - index.qmd
