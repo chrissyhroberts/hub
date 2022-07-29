@@ -1,0 +1,14 @@
+{
+  "hash": "d93e3eb12e75bbc2afced9541235df0c",
+  "result": {
+    "markdown": "---\ntitle: \"Chapter 1\"\nauthor: \"Chrissy Roberts\"\neditor: visual\n---\n\n\nHello, world\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary()\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
