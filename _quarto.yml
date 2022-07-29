@@ -34,9 +34,9 @@ website:
       - href: index.qmd
         text: Welcome
       - explore.qmd
-      - section: quarto-workflows/index.qmd
+      - section: ODK/index.qmd
         contents: 
-          - quarto-workflows/browser.md
+          - https://github.com/chrissyhroberts/ODK_Geofencing/blob/main/README.md
           - quarto-workflows/rstudio.qmd
           - quarto-workflows/jupyter.md 
       - learning-more.qmd
