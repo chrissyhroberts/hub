@@ -67,5 +67,5 @@ ggplot(a,aes(a,b))+geom_point()
 
 # References 
 
-::: {#refs}
-:::
+{#refs}
+
