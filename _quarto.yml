@@ -2,18 +2,19 @@ project:
   type: book
   output-dir: _book
   
-
 execute:
   freeze: auto
   
   
-  
 book:
+  cover-image: cover.jpg
   title: "Chrissy's Book"
   author: "Chrissy Roberts"
   date: last-modified 
   description: "This is a template for a book I may write" 
   page-navigation: true
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
   
   sidebar:
     logo: "images/mugshot.png"
@@ -46,6 +47,8 @@ book:
     - index.qmd
     - part: "ODK Stuff"
     - chapters/Chapter_1.qmd 
+    - part: "R Stuff"
+    
 
 
 # not sure what the following line does; those files are present
