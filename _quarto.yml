@@ -5,6 +5,8 @@ project:
 execute:
   freeze: auto
   
+  
+  
 book:
   title: "Chrissy's Book"
   author: "Chrissy Roberts"
@@ -36,6 +38,8 @@ book:
   site-url: https://chrissyhroberts.github.io/hub/
   repo-url: https://github.com/chrissyhroberts/hub
   repo-actions: [edit,issue]
+
+page-navigation: true
 
   chapters: 
     - index.qmd

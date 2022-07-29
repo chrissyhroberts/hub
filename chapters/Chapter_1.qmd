@@ -4,11 +4,11 @@ author: "Chrissy Roberts"
 editor: visual
 ---
 
-# Intro
+# Intro {.unnumbered}
 Hello, world
 asdfa
 
-# Doom
+# Doom {.unnumbered}
 sadfasdfasdfas
 sdfasdf
 sadf
@@ -16,31 +16,31 @@ asdf
 asdf
 asd
 
-## Bacon
+## Bacon {.unnumbered}
 sdfasdfa
 asdf
 asdf
 asd
 
-### Bacon doom
+### Bacon doom {.unnumbered}
 
 asdf
 asdf
 asdf
 
-# Hell
+# Hell {.unnumbered}
 
 asdf
 asdf
 sd
 
-# Easy space
+# Easy space {.unnumbered}
 
 asdfs
 asdf
 asdf
 
-## maggots
+## maggots {.unnumbered}
 
 asdf
 sdf
