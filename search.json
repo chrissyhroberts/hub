@@ -4,54 +4,33 @@
     "href": "index.html",
     "title": "Chrissy’s Book",
     "section": "",
-    "text": "(Enria et al. 2021) It’s possible to A beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout."
+    "text": "(Enria et al. 2021)"
   },
   {
-    "objectID": "index.html#what-is-quarto",
-    "href": "index.html#what-is-quarto",
+    "objectID": "index.html#intro-text",
+    "href": "index.html#intro-text",
     "title": "Chrissy’s Book",
-    "section": "0.2 What is Quarto?",
-    "text": "0.2 What is Quarto?\nQuarto helps you have your ideas and your code in one place, and present it in a beautiful way.\nQuarto unifies and extends the RMarkdown ecosystem - it unifies by combining the functionality of R Markdown, bookdown, distill, xaringian, etc into a single consistent system. And it extends in several ways: all features are possible beyond R too, including Python and Javascript. It also has more “guardrails”: accessibility and inclusion are centered in the design. Quarto is for people who love RMarkdown, and it’s for people who have never used RMarkdown.\nThe ability for Quarto to streamline collaboration has been so cool and important for our NASA Openscapes project. Quarto has been a common place for us to collaborate - across R and Python languages and coding expertise."
-  },
-  {
-    "objectID": "index.html#what-is-this-tutorial",
-    "href": "index.html#what-is-this-tutorial",
-    "title": "Chrissy’s Book",
-    "section": "0.3 What is this tutorial?",
-    "text": "0.3 What is this tutorial?\nThis is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe’ll start off from the browser so you don’t need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don’t already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don’t need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\nQuarto.org is the go-to place for full documentation and more tutorials!"
-  },
-  {
-    "objectID": "index.html#example-quarto-sites",
-    "href": "index.html#example-quarto-sites",
-    "title": "Chrissy’s Book",
-    "section": "0.4 Example Quarto sites",
-    "text": "0.4 Example Quarto sites\nA few Quarto websites from Openscapes - so far we have been using Quarto for documentation using Quarto and Markdown files and Jupyter Notebooks.\n\nChampions Lessons Series\nOpenscapes Approach Guide\n\n2021 NASA Cloud Hackathon\nFaylab Lab Manual\nA Quarto tip a day, by Mine Çetinkaya-Rundel"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Chrissy’s Book",
-    "section": "0.5 About",
-    "text": "0.5 About\nOpenscapes is about better science for future us. We help researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams as part of the broader global open movement.\nWe’re developing this tutorial to help folks with different levels of technical skills use Quarto for documentation and tutorial building. This tutorial was originally created for several different audiences: NASA-Openscapes researcher support engineers using Python, communications directors at organizations promoting open science who do not identify as coders, and fisheries scientists curious about transitioning from RMarkdown. We’re hoping it’s useful to folks with backgrounds as wide as these; if you find it useful or have suggestions for improvement, please let us know by clicking “Edit this page” or “Report an issue” at the upper right side of any page.\n\n\n\n\nEnria, Luisa, Naomi Waterlow, Nina Trivedy Rogers, Hannah Brindle, Sham Lal, Rosalind M. Eggo, Shelley Lees, and Chrissy h. Roberts. 2021. “Trust and Transparency in Times of Crisis: Results from an Online Survey During the First Wave (April 2020) of the COVID-19 Epidemic in the UK.” Edited by Adriano Gianmaria Duse. PLOS ONE 16 (2): e0239247. https://doi.org/10.1371/journal.pone.0239247."
+    "section": "0.2 Intro text?",
+    "text": "0.2 Intro text?"
   },
   {
     "objectID": "chapters/Chapter_1.html",
     "href": "chapters/Chapter_1.html",
-    "title": "2  Chapter 1",
+    "title": "2  This Chapter",
     "section": "",
     "text": "Hello, world asdfa"
   },
   {
     "objectID": "chapters/Chapter_1.html#bacon",
     "href": "chapters/Chapter_1.html#bacon",
-    "title": "2  Chapter 1",
+    "title": "2  This Chapter",
     "section": "Bacon",
     "text": "Bacon\nsdfasdfa asdf asdf asd\n\nBacon doom\nasdf asdf asdf"
   },
   {
     "objectID": "chapters/Chapter_1.html#maggots",
     "href": "chapters/Chapter_1.html#maggots",
-    "title": "2  Chapter 1",
+    "title": "2  This Chapter",
     "section": "maggots",
     "text": "maggots\nasdf sdf asdf\n\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──\n\n\n✔ ggplot2 3.3.6     ✔ purrr   0.3.4\n✔ tibble  3.1.7     ✔ dplyr   1.0.9\n✔ tidyr   1.2.0     ✔ stringr 1.4.0\n✔ readr   2.1.2     ✔ forcats 0.5.1\n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\n\n# A tibble: 10 × 2\n       a     b\n   <int> <int>\n 1     1     1\n 2     2     2\n 3     3     3\n 4     4     4\n 5     5     5\n 6     6     6\n 7     7     7\n 8     8     8\n 9     9     9\n10    10    10\n\n\nPoop"
   }
