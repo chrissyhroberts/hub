@@ -36,7 +36,7 @@ book:
 
   chapters: 
     - index.qmd
- #   - 01-intro-how-we-work.qmd
+    - chapters/Chapter_1.qmd
  #   - 02-lab-culture-philosophy.qmd
  #   - 03-code-of-conduct.qmd
  #   - 04-onboarding.qmd

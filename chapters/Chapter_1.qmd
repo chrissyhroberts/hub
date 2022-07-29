@@ -1,0 +1,23 @@
+---
+title: "Chapter 1"
+author: "Chrissy Roberts"
+editor: visual
+---
+
+Here some text baby
+
+```{r}
+library(tidyverse)
+a = 3+5
+a
+
+```
+
+hello
+
+```{r}
+
+a<-tibble(a=1:10,b=1:10)
+a
+ggplot(a,aes(a,b))+geom_point()
+```
