@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1"
+title: "This Chapter"
 author: "Chrissy Roberts"
 editor: visual
 ---
@@ -65,7 +65,7 @@ ggplot(a,aes(a,b))+geom_point()
 
 
 
-# References 
+# References {.unnumbered}
 
 {#refs}
 

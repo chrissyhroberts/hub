@@ -44,7 +44,8 @@ book:
 
   chapters: 
     - index.qmd
-    - chapters/Chapter_1.qmd
+    - part: "ODK Stuff"
+    - chapters/Chapter_1.qmd 
 
 
 # not sure what the following line does; those files are present
