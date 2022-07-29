@@ -4,7 +4,49 @@ author: "Chrissy Roberts"
 editor: visual
 ---
 
+# Intro
 Hello, world
+asdfa
+
+# Doom
+sadfasdfasdfas
+sdfasdf
+sadf
+asdf
+asdf
+asd
+
+## Bacon
+sdfasdfa
+asdf
+asdf
+asd
+
+### Bacon doom
+
+asdf
+asdf
+asdf
+
+# Hell
+
+asdf
+asdf
+sd
+
+# Easy space
+
+asdfs
+asdf
+asdf
+
+## maggots
+
+asdf
+sdf
+asdf
+
+
 
 ```{r, echo=F}
 library(tidyverse)
@@ -18,3 +60,12 @@ Poop
 ggplot(a,aes(a,b))+geom_point()
 
 ```
+
+
+
+
+
+# References 
+
+::: {#refs}
+:::
