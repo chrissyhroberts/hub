@@ -5,48 +5,34 @@ editor: visual
 ---
 
 # Intro {.unnumbered}
-Hello, world
-asdfa
+
+Hello, world asdfa
 
 # Doom {.unnumbered}
-sadfasdfasdfas
-sdfasdf
-sadf
-asdf
-asdf
-asd
+
+sadfasdfasdfas sdfasdf sadf asdf asdf asd
 
 ## Bacon {.unnumbered}
-sdfasdfa
-asdf
-asdf
-asd
+
+sdfasdfa asdf asdf asd
 
 ### Bacon doom {.unnumbered}
 
-asdf
-asdf
-asdf
+asdf asdf asdf
 
 # Hell {.unnumbered}
 
-asdf
-asdf
-sd
+asdf asdf sd
 
 # Easy space {.unnumbered}
 
-asdfs
-asdf
-asdf
+asdfs asdf asdf
 
 ## maggots {.unnumbered}
 
-asdf
-sdf
-asdf
+[@roberts2021]
 
-
+asdf sdf asdf
 
 ```{r, echo=F}
 library(tidyverse)
@@ -61,11 +47,4 @@ ggplot(a,aes(a,b))+geom_point()
 
 ```
 
-
-
-
-
 # References {.unnumbered}
-
-{#refs}
-
