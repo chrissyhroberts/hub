@@ -33,5 +33,12 @@
     "title": "Chrissy’s Book",
     "section": "0.5 About",
     "text": "0.5 About\nOpenscapes is about better science for future us. We help researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams as part of the broader global open movement.\nWe’re developing this tutorial to help folks with different levels of technical skills use Quarto for documentation and tutorial building. This tutorial was originally created for several different audiences: NASA-Openscapes researcher support engineers using Python, communications directors at organizations promoting open science who do not identify as coders, and fisheries scientists curious about transitioning from RMarkdown. We’re hoping it’s useful to folks with backgrounds as wide as these; if you find it useful or have suggestions for improvement, please let us know by clicking “Edit this page” or “Report an issue” at the upper right side of any page.\n\n\n\n\nEnria, Luisa, Naomi Waterlow, Nina Trivedy Rogers, Hannah Brindle, Sham Lal, Rosalind M. Eggo, Shelley Lees, and Chrissy h. Roberts. 2021. “Trust and Transparency in Times of Crisis: Results from an Online Survey During the First Wave (April 2020) of the COVID-19 Epidemic in the UK.” Edited by Adriano Gianmaria Duse. PLOS ONE 16 (2): e0239247. https://doi.org/10.1371/journal.pone.0239247."
+  },
+  {
+    "objectID": "chapters/Chapter_1.html",
+    "href": "chapters/Chapter_1.html",
+    "title": "2  Chapter 1",
+    "section": "",
+    "text": "Hello, world"
   }
 ]
